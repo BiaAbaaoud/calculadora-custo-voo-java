@@ -1,0 +1,4 @@
+--- FATURA OBJETO: PT-BIA ---
+Horas Cobradas: 1.5
+Total a Pagar: R$ 1300.00
+---------------------------
